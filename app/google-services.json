@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311138313727",
+    "project_id": "whatsgram-a21cf",
+    "storage_bucket": "whatsgram-a21cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311138313727:android:cf126bfa34ca2a2c1bf3ca",
+        "android_client_info": {
+          "package_name": "com.example.whatsgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311138313727-par9ik0m1no5ob0fqrte1idatp0dmpn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmEwgqIgJdCArpDh6gSdCt9Ra-Ro_Jcts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311138313727-par9ik0m1no5ob0fqrte1idatp0dmpn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
